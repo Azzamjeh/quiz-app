@@ -1,6 +1,18 @@
 # flutter_simple_quiz_app
 
 A new Flutter project.
+- simple quiz app made by Dart language about basic Flutter question
+- Firebase database
+
+  **how to play it**
+  - clone the source
+  - put in your github desktop
+  - open the Visual studio code and show the file in the explorer
+  - after that u can run or start Debugging and you can see the app works just fine
+ 
+ 
+    **firebase source**
+    "https://console.firebase.google.com/u/0/project/quiz-app-6aa71/overview"
 
 UI Screenshots:
 
